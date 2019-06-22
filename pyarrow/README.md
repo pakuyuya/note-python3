@@ -1,1 +1,1 @@
-pip install pyarrow
+pip install pyarrow pandas
